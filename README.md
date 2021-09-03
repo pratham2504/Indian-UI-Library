@@ -14,7 +14,7 @@ There is no standard visual asset library (2D or 3D) for Indian resources availa
 
 * **Obvious:** An asset that reflects the services, attributes or consumables that are routine part of the Indian way of living instead of borrowed from other demographics.
 * **Distinguishable:** An individual should be able to discern unambiguously the relationship of the asset with the Indian culture and demography.
-* **Mass-Appealing:** A generic Indian asset should not be represented through a sub-culture of a niche community within the Indian demography unless the goal of the asset is to represent the culture from the community itself.
+* **Specific:** A generic Indian asset should not be represented through a sub-culture of a niche community within the Indian demography unless the goal of the asset is to represent the culture from the community itself.
 * **Localized:** Any asset that is common day to day use in other cultures and probably reflects as a global representation for the purposes of communicating the need but is not part of the Indian culture is not an Indian asset.
 * **Relevant:** The asset should adequately represent the purpose relevant in the current space and time and should not be loosely bargained from historical usages unless the purpose of the asset is to specifically depict the historical artefact or culture.
 * **Diverse:** The library should not be monocultural, i.e. depicting resources only from 1 predominant culture or beings unless that is the purpose.
